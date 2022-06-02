@@ -1,0 +1,2 @@
+4) Multiply 10 with 5, and print the result
+5) Divide 10 by 3, and print the result. Ensure the result is a float
