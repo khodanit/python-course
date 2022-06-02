@@ -1,2 +1,2 @@
-print("Hello Ada Lovelace")
-print("How did you get here?")
+print("Hello", end=" ")
+print("World?")
