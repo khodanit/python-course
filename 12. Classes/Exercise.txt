@@ -1,0 +1,8 @@
+Create a Car Class with the following:
+- a way to initialise the speed and heading attributes
+- the heading attribute determines the direction in which the car is heading in degrees
+- a way to accelerate the vehicle by accepting an increment argument that increases the speed
+- a way for the car to brake (setting the speed to 0)
+- a way to turn the direction in which the car is heading by accepting an angle argument
+    - NB: angles should not be greater than 360 or less than 0 degrees
+- a warning should be displayed when the car exceeds the maximum speed (120)

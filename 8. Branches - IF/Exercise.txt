@@ -1,0 +1,3 @@
+18. Write a guessing game that tests the input of a user against any value set to x. 
+    - If the guess is correct, print "Correct" to the screen. 
+    - If the guess is incorrect print whether the guess was higher or lower than the value to the screen.  
