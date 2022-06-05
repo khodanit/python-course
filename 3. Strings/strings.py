@@ -1,3 +1,3 @@
-hello = "Hello World"
+text = "Hello World"
 
-print(len(hello))
+print(text[0])
