@@ -1,4 +1,4 @@
-Trigger and log the following exceptions with print messages for each:
+23. Trigger and log the following exceptions with print messages for each:
 - ZeroDivisionError
 - NameError
 - IndexError
