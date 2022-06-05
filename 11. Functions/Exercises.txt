@@ -1,0 +1,5 @@
+21. Create a function that calculates the factorial of a single digit integer
+    - A factorial is the product of all positive integers less than and equal to the given integer
+    - e.g. The factorial of 4 (or 4!) is: 4 x 3 X 2 X 1 = 24
+    - You do not have to consider 0! (but feel free to but not that 0! = 1)
+    - Hint: use a loop within your function
