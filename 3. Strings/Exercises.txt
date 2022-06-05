@@ -1,0 +1,5 @@
+Given the string: "Hello World"
+6. Print the length of the string using a string method.
+7. Assign the string to a variable named 'text' and print the first character
+8. Print all characters in the string in upper case
+9. Print the string with the character 'H' replaced with a 'J'

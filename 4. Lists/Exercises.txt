@@ -1,0 +1,4 @@
+Given the list: fruits = ["apple", "banana", "cherry"]
+10. Change the value from "apple" to "kiwi", in the fruits list.
+11. Remove "banana" from the fruits list
+12. Print the number of items in the fruits list
