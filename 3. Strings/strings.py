@@ -1,3 +1,3 @@
 text = "Hello World"
 
-print(text.upper())
+print(text.replace("H", "J"))
