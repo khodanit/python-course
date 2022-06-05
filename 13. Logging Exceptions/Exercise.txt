@@ -1,0 +1,7 @@
+23. Trigger and log the following exceptions with print messages for each:
+- ZeroDivisionError
+- NameError
+- IndexError
+- Exception
+
+Display a final message as a fix to the triggered exceptions

@@ -1,0 +1,4 @@
+    We are going to create a Person Class:
+    - we will have the class initialise with a name and age attributes
+    - we will use the name property to set the firstname (fname) and surname (sname) attributes
+    - our Person will walk and talk
