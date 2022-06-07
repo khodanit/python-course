@@ -10,17 +10,25 @@ x = 7
 
 y = input("Guess any number between 0 and 10 (enter 'quit' to exit): ")
 
-for i in range(0, 4):
+for i in range(4, 0, -1):
     if y == "quit":
         break
     elif x == int(y):
         print("Correct")
         break
     elif x > int(y):
-        print("Incorrect. Your guess was lower than the answer")
+        print(
+            "Incorrect. Your guess was lower than the answer. You have ",
+            i,
+            "attempt/s left",
+        )
         y = input("Guess any number between 0 and 10 (enter 'quit' to exit): ")
     elif x < int(y):
-        print("Incorrect. Your guess was higher than the answer")
+        print(
+            "Incorrect. Your guess was lower than the answer. You have ",
+            i,
+            "attempt/s left",
+        )
         y = input("Guess any number between 0 and 10 (enter 'quit' to exit): ")
     else:
         print("Invalid option")
